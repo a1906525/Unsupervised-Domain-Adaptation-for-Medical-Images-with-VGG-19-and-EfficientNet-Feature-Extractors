@@ -2,6 +2,7 @@
 
 This repository contains experiments on **Unsupervised Domain Adaptation (UDA)** and **Pretraining** using **VGG-19** and **EfficientNet-B0** as feature extractors. The workflows include Exploratory Data Analysis (EDA), model training, and evaluation with ADDA and DANN frameworks.  
 
+
 ---
 
 ## 📂 Repository Structure
@@ -41,3 +42,6 @@ All datasets, preprocessed data, codes, results, and analysis are stored in Goog
 
 - **Analysis on Results**  
   Excel-based analysis of outcomes (graphs, filtering, averaging, etc.) for both pretraining and UDA.
+
+
+The overleaf document for the progress report can be found here :- [Progress Report] (https://www.overleaf.com/5948868377thpnrppnwggz#065240)
