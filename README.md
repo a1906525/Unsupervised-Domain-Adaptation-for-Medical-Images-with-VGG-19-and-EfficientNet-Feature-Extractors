@@ -12,10 +12,10 @@ This repository contains experiments on **Unsupervised Domain Adaptation (UDA)**
   Exploratory Data Analysis (EDA) on the Source and Target datasets for Pretraining and UDA.
 
 - **Pretraining and UDA with VGG-19 (ADDA, DANN).ipynb**  
-  Pretraining on Source with **VGG-19** and UDA on Target using **ADDA** and **DANN** feature extractors.
+  Pretraining on Source with **VGG-19** and UDA on Target using **ADDA** and **DANN** GANs with VGG-19 Feature Extractor.
 
 - **UDA with EfficientNet.ipynb**  
-  Pretraining on Source with **EfficientNet-B0** and UDA on Target using **ADDA** and **DANN** feature extractors.
+  Pretraining on Source with **EfficientNet-B0** and UDA on Target using **ADDA** and **DANN** with EfficientNet-B0 Feature Extractor.
 
 ---
 
