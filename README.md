@@ -44,4 +44,4 @@ All datasets, preprocessed data, codes, results, and analysis are stored in Goog
   Excel-based analysis of outcomes (graphs, filtering, averaging, etc.) for both pretraining and UDA.
 
 
-The overleaf document for the progress report can be found here :- [Progress Report] (https://www.overleaf.com/5948868377thpnrppnwggz#065240)
+The overleaf document for the progress report can be found here :- [Progress Report](https://www.overleaf.com/5948868377thpnrppnwggz#065240)
