@@ -35,13 +35,15 @@ All datasets, preprocessed data, codes, results, and analysis are stored in Goog
   Scripts and notebooks executed in **Google Colab (L4 GPU)** for EDA and model training (mirrored here in GitHub).
 
 - **Results**  
-  Contains result files including:
+  Contains result files for Pretraining and Domain Adaptations including:
   - Excel sheets
   - Confusion matrices
   - Best-5 UDA checkpoints (`.pth` files)
 
 - **Analysis on Results**  
   Excel-based analysis of outcomes (graphs, filtering, averaging, etc.) for both pretraining and UDA.
-
+  
+- **Files for Block Diagrams**  
+  The google slide sheets on which block diagrams were created.
 
 The overleaf document for the progress report can be found here :- [Progress Report](https://www.overleaf.com/5948868377thpnrppnwggz#065240)
